@@ -23,11 +23,4 @@ Welcome to JARVIS, a Python-powered virtual assistant designed to simplify your 
   - `datetime` (Date and time functions)
   - `requests` (Fetching data from APIs)
 
----
 
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have Python installed on your system. Install the required Python libraries:
-```bash
-pip install pyttsx3 speechrecognition requests
